@@ -1,0 +1,15 @@
+C:\Users\Ayhan\source\repos\Project B\Project B\bin\Debug\Project B.exe.config
+C:\Users\Ayhan\source\repos\Project B\Project B\bin\Debug\Project B.exe
+C:\Users\Ayhan\source\repos\Project B\Project B\bin\Debug\Project B.pdb
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\Project B.csprojResolveAssemblyReference.cache
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\MainWindow.g.cs
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\App.g.cs
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\Project B_MarkupCompile.cache
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\Project B_MarkupCompile.lref
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\MainWindow.baml
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\Project B.g.resources
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\Project_B.Properties.Resources.resources
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\Project B.csproj.GenerateResource.Cache
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\Project B.csproj.CoreCompileInputs.cache
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\Project B.exe
+C:\Users\Ayhan\source\repos\Project B\Project B\obj\Debug\Project B.pdb
