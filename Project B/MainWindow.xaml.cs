@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,15 +21,17 @@ namespace Project_B
     /// </summary>
     public partial class MainWindow : Window
     {
+        private ObservableCollection<User> users = new ObservableCollection<User>();
+
         public MainWindow()
         {
             InitializeComponent();
-            this.DataContext = this;
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
 
+        private void Login_Button(object sender, RoutedEventArgs e)
+        {
+            users.Add(item: new User() { UserName = username_box.ToString(), Password = password_box.Password.ToString(), LoginTime = DateTime.Now.ToString() });
         }
     }
 }

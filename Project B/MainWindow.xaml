@@ -31,16 +31,16 @@
                 <RowDefinition></RowDefinition>
             </Grid.RowDefinitions>
             <Label Content="Username:" Grid.Column="0" Grid.Row="1"></Label>
-            <TextBox Grid.Column="1" Grid.Row="1"></TextBox>
+            <TextBox Name="username_box" Grid.Column="1" Grid.Row="1"></TextBox>
             <Label Content="Password:" Grid.Column="0" Grid.Row="2"></Label>
-            <PasswordBox Grid.Column="1" Grid.Row="2"></PasswordBox>
+            <PasswordBox Name="password_box" Grid.Column="1" Grid.Row="2"></PasswordBox>
             <Grid Grid.Column="1" Grid.Row="3">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition></ColumnDefinition>
                     <ColumnDefinition></ColumnDefinition>
                     <ColumnDefinition></ColumnDefinition>
                 </Grid.ColumnDefinitions>
-                <Button Content="Log In" Grid.Column="2" Click="Button_Click"></Button>
+                <Button Content="Log In" Grid.Column="2" Click="Login_Button"></Button>
             </Grid>
         </Grid>
     </Grid>
